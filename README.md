@@ -1,4 +1,4 @@
-# streaming-03-rabbitmq
+# streaming-03-rabbitmq Brendi Kargel 9/11/23
 
 > Get started with RabbitMQ, a message broker, that enables multiple processes to communicate reliably through an intermediary.
 
