@@ -26,7 +26,9 @@ Brendi Kargel 9/10/23
 
 # you can add multiple imports on one line
 # but we don't recommend it for readability
-import pika, sys, os
+import pika
+import sys
+import os
 
 
 # define a main function to run the program
