@@ -72,7 +72,7 @@ They are meant to be helpful, but are not required.
 ```shell
 python util_about.py
 python util_aboutenv.py
-python util_aboutrabbit.py
+python util_aboutrabbit.py #Error was received, but RabbitMQ is running. Not required, so continue on.
 pip list
 ```
 
@@ -119,6 +119,8 @@ Sending the same message each time is kind of boring. This time:
 
 Repeat this process several times - emit at least 4 different messages.
 Don't worry - it's just code. We can always revert back (try the 'undo' command in VS Code) to a version that works. You can't hurt anything.
+
+![Alt text](https://github.com/bkargel/streaming-03-rabbitmq/blob/main/Two_terminals.png)raw=true
 
 ## Task 9. Save Time & Effort: Don't Repeat Yourself
 

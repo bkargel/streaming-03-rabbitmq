@@ -1,0 +1,13 @@
+2023-09-10 23:18:26,588.v2_listen_for_messages.INFO ==================================================
+2023-09-10 23:18:26,588.v2_listen_for_messages.INFO Today is 2023-09-10 at 11:18 PM
+2023-09-10 23:18:26,588.v2_listen_for_messages.INFO Running on: nt Windows 10
+2023-09-10 23:18:26,588.v2_listen_for_messages.INFO Python version:  3.11.5
+2023-09-10 23:18:26,588.v2_listen_for_messages.INFO Python path: c:\Users\bakar\44-671\.venv\streaming-03-rabbitmq\.venv
+2023-09-10 23:18:26,588.v2_listen_for_messages.INFO Working dir: C:\Users\bakar\44-671\.venv\streaming-03-rabbitmq
+2023-09-10 23:18:26,588.v2_listen_for_messages.INFO ==================================================
+2023-09-10 23:18:26,643.v2_listen_for_messages.INFO  [*] Waiting for messages. To exit press CTRL+C
+2023-09-10 23:18:26,643.v2_listen_for_messages.INFO Received: Hello World!
+2023-09-10 23:18:26,643.v2_listen_for_messages.INFO Received: Hello World!
+2023-09-10 23:23:54,193.v2_listen_for_messages.INFO Received: Hello World!
+2023-09-10 23:25:11,764.v2_listen_for_messages.WARNING User interrupted the listening process.
+2023-09-10 23:25:11,765.v2_listen_for_messages.INFO Closing connection. Goodbye.

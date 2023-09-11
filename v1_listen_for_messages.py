@@ -20,6 +20,8 @@ Terminal Reminders
 
 - Use the up arrow to get the last command executed.
 
+Brendi Kargel 9/10/23
+
 """
 
 # you can add multiple imports on one line
@@ -31,7 +33,7 @@ import pika, sys, os
 def main():
     # create a blocking connection to the RabbitMQ server
     connection = pika.BlockingConnection(
-        pika.ConnectionParameters(host="looooocalhost")
+        pika.ConnectionParameters(host="LOCALHOST")
     )
     # use the connection to create a communication channel
     channel = connection.channel()

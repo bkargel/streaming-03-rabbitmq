@@ -10,6 +10,8 @@ This terminal must be open and dedicated to this process.
 Remember:
 - Use Control + C to close a terminal and end the listening process.
 - Use the up arrow to recall the last command executed in the terminal.
+
+Brendi Kargel 9/10/23
 """
 
 
@@ -51,7 +53,7 @@ def process_message(ch, method, properties, body):
 # define a main function to run the program
 # pass in the hostname as a string parameter if you like
 # if no argument is provided, set a default value to localhost
-def main(hn: str = "localhosttt"):
+def main(hn: str = "localhost"):
     """Main program entry point."""
 
     # when a statement can go wrong, use a try-except block
